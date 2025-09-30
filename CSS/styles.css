@@ -1,0 +1,19 @@
+body {
+    font-family: sans-serif; 
+    text-align: center; 
+    background: #f9f9f9; 
+}
+
+video, canvas { 
+    width: 300px; 
+    margin: 10px; 
+    border: 2px solid #333; 
+}
+
+#preview { 
+    margin-top: 20px; 
+    padding: 10px; 
+    background: #fff; 
+    border-radius: 8px; 
+    box-shadow: 0 0 6px #ccc; 
+}
